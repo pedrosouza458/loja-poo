@@ -1,4 +1,4 @@
-package org.example;
+package org.loja.poo-poo;
 
 public enum CategoriaProduto {
     ELETRONICO,

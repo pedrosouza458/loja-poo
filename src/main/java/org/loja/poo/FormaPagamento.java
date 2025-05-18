@@ -1,4 +1,4 @@
-package org.example;
+package org.loja.poo;
 
 public enum FormaPagamento {
     CREDITO,

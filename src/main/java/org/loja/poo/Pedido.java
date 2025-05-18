@@ -1,4 +1,4 @@
-package org.example;
+package org.loja.poo;
 
 import java.util.ArrayList;
 import java.util.List;

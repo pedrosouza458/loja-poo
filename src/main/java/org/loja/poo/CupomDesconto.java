@@ -1,4 +1,4 @@
-package org.example;
+package org.loja.poo;
 
 public enum CupomDesconto {
     NENHUM(0.00),
